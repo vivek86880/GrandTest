@@ -1,0 +1,19 @@
+.card{
+    width: 300px;
+    border: 5px solid black;
+}
+.card>img{
+    width: 100%;
+    height: 200px;
+}
+.container{
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap-reverse;
+}
+.btn{
+    color:white;
+    background-color: pink;
+}
